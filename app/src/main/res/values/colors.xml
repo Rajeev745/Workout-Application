@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary_color">#2196F3</color>      <!-- Material Blue -->
+    <color name="secondary_color">#4CAF50</color>    <!-- Material Green -->
+    <color name="accent_color">#FF5722</color>       <!-- Material Deep Orange -->
+    <color name="text_color_dark">#424242</color>    <!-- Material Grey -->
+    <color name="text_color_light">#FAFAFA</color>   <!-- Material Off-white -->
+    <color name="highlight_color">#FFEB3B</color>     <!-- Material Yellow -->
+    <color name="background_color">#F5F5F5</color>    <!-- Light Grey Background -->
+    <color name="divider_color">#BDBDBD</color>
+    <color name="dark_blue">#00008b</color>
+</resources>
